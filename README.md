@@ -3,4 +3,3 @@
 <h3 align="center">Software engineer student from Russia</h3>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lan3dx)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
