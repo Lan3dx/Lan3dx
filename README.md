@@ -5,4 +5,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lan3dx&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lan3dx&theme=solarized_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lan3dx&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lan3dx&theme=solarized_dark)
 
-![](https://komarev.com/ghpvc/?username=Lan3dx&color=blue)
+![](https://komarev.com/ghpvc/?username=Lan3dx&color=blue&style=flat-square)
